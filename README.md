@@ -1,4 +1,4 @@
-Journal: Radiation Physics and Chemistry
+Journal: Nuclear Engineering and Technology
 
 Title: Age-Specific Tooth Enamel Dose Coefficients for Photons Calculated Using ICRP Pediatric Mesh-Type Reference Computational Phantoms
 
